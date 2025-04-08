@@ -1,0 +1,9 @@
+README.md
+setup.py
+chatbuilder/__init__.py
+chatbuilder/io_utils.py
+chatbuilder/models.py
+chatbuilder.egg-info/PKG-INFO
+chatbuilder.egg-info/SOURCES.txt
+chatbuilder.egg-info/dependency_links.txt
+chatbuilder.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+.venv
+.gradio
+__pycache__
+*.jsonl
+*.pkl
