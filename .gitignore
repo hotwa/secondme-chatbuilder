@@ -4,3 +4,7 @@ __pycache__
 *.jsonl
 *.pkl
 chatbuilder.egg-info
+
+# Docker
+docker/.env
+docker/data
